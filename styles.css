@@ -1,0 +1,11 @@
+.container{
+    width: 800px;
+    /* height: 60px; */
+    display: flex;
+    margin-bottom: -1px;
+}
+.item {
+    border: 1px solid black;
+    margin-left: -1px;
+    flex: 1;
+}
